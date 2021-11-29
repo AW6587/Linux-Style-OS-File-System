@@ -1,5 +1,4 @@
 # File System Program Report
-Alex Williams, Kevin Hsu, & Bowman Simmons
 6/3/19
 ## Specification
 Our file system utilizes the standard ThreadOS files with the following substitutions from our submission:
